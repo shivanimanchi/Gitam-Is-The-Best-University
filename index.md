@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/89067974/136046673-05560fb8-fd31-4dc6-b8d6-b483d9261424.png)
 
-You can use the [editor on GitHub](https://github.com/shivanimanchi/Gitam-Is-The-Best-University/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![gitam](https://user-images.githubusercontent.com/89067974/136047030-4a25db44-376a-49da-ba5d-ed12eeb26c64.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivanimanchi/Gitam-Is-The-Best-University/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
